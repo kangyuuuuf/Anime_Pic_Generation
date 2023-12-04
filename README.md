@@ -13,3 +13,5 @@ where the `image` will contain all the image datasets.
 `model.py`: Python file that includes the construction of generator and discriminator for DCGAN.
 
 `fp.ipynb`: Jupyter Notebook that is used to train and show the model.
+
+`DCGAN-v1.h5`: Verson-1 model trained with `batchsize = 64`. Cannot open for now.
